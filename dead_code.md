@@ -1,5 +1,14 @@
 ##Dead Code
 
+### Dead Code
+
+'Text' is defined but never used.
+
+```{JavaScript}
+import { View, Text, StyleSheet, FlatList, Button } from "react-native";
+}
+```
+
 Here in the imports there are multiple imported libraries still in the code that is not being used anywhere in the file.
 
 ```{programming-language}
