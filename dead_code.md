@@ -1,5 +1,3 @@
-##Dead Code
-
 ### Dead Code
 
 'Text' is defined but never used.
