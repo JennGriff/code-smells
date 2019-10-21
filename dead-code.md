@@ -7,12 +7,17 @@ import { View, Text, StyleSheet, FlatList, Button } from "react-native";
 }
 ```
 
-Here in the imports there are multiple imported libraries still in the code that is not being used anywhere in the file.
+void Submit() was used for testing but is no longer in use
 
-```{programming-language}
+```{Dart}
+void Submit() {
+  print("Sup");
+}
+```
 
-import React from 'react';
+Many have been imported, but few have been used. 
 
+```{JavaScript}
 // Unused libraries that were abandoned
 
 import Collapsible from 'react-native-collapsible';
@@ -23,6 +28,5 @@ import {
     AccordionItemHeading,
     AccordionItemPanel,
 } from 'react-accessible-accordion';
-
 
 ```
