@@ -14,19 +14,3 @@ void Submit() {
   print("Sup");
 }
 ```
-
-Many have been imported, but few have been used. 
-
-```{JavaScript}
-// Unused libraries that were abandoned
-
-import Collapsible from 'react-native-collapsible';
-import {
-    Accordion,
-    AccordionItem,
-    AccordionItemButton,
-    AccordionItemHeading,
-    AccordionItemPanel,
-} from 'react-accessible-accordion';
-
-```
