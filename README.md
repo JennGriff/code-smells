@@ -12,6 +12,13 @@ if( example == "good" )
   //do nothing
 }
 ```
-* [Comments](comments.md)
-* [Dead Code](dead-code.md)
 
+* [Combinatorial Explosion](combinatorial-explosion.md)
+* [Comments](comments.md)
+* [Conditional Complexity](conditional-complexity.md)
+* [Dead Code](dead-code.md)
+* [Inconsistent Names](inconsistent-names.md)
+* [Large Class](large-class.md)
+* [Shotgun Surgery](shotgun-surgery.md)
+* [Temporary Field](temporary-field.md)
+* [Type Embedded](type-embed.md)
